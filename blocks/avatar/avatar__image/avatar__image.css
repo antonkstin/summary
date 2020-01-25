@@ -1,0 +1,10 @@
+.avatar__image {
+    max-width: 365px;
+    position: relative;
+}
+
+@media screen and (max-width: 1000px) {
+    .avatar__image {
+        width: 100%;
+    }
+}

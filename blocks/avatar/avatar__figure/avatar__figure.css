@@ -1,0 +1,10 @@
+.avatar__figure {
+    width: 1px;
+    height: 1px;
+    bottom: 230px;
+    left: 220px;
+    background-color: #2f80ed;
+    box-shadow: 0 0 0 210px #2f80ed;
+    border-radius: 50%;
+    position: absolute;
+}

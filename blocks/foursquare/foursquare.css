@@ -1,0 +1,15 @@
+.foursquare {
+    width: 350px;
+    height: 350px;
+    border: 30px solid #2f80ed;
+    position: absolute;
+    bottom: 120px;
+    right: 120px;
+    transform: rotate(18deg);
+}
+
+@media screen and (max-width: 520px) {
+    .foursquare {
+        bottom: 400px;
+    }
+}

@@ -1,0 +1,9 @@
+.skills {
+    margin-top: 60px;
+}
+
+@media screen and (max-width: 520px) {
+    .skills {
+        font-size: 18px;
+    }
+}
