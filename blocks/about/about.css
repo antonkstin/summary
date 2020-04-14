@@ -1,11 +1,10 @@
 @import url(./about__contact/about__contact.css);
-@import url(./about__portfolio/about__portfolio.css);
-@import url(./about__portfolio-link/about__portfolio-link.css);
-@import url(./about__portfolio-title/about__portfolio-title.css);
+@import url(./about__aim/about__aim.css);
 
 .about {
     font-family: Comfortaa;
     font-size: 20px;
     position: relative;
     z-index: 2;
+    max-width: 500px;
 }

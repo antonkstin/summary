@@ -1,9 +1,0 @@
-.about__portfolio-title {
-    text-align: right;
-}
-
-@media screen and (max-width: 767px) {
-    .about__portfolio-title {
-        text-align: center;
-    }
-}
