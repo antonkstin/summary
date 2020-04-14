@@ -42,5 +42,6 @@
 @media screen and (max-width: 1035px) {
   .portfolio__work {
     height: 180px;
+    padding: 8px;
   }
 }
