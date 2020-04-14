@@ -17,4 +17,9 @@
   .portfolio__description {
     font-size: 12px;
   }
+
+  .portfolio__work:focus .portfolio__description {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
